@@ -1,0 +1,15 @@
+@media only screen and (max-width: 767px){
+    
+}
+@media (max-width: 767px) {
+    .mu0{display:initial;font-family: 'Bangers', cursive;}
+    .mu{display: none;}
+}
+
+@media (min-width: 768px) {
+    .mu{display: initial;}
+}
+
+@media only screen
+and (min-device-width : 760px)
+    and (max-device-width : 1020px){}
